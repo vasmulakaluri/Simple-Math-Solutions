@@ -1,0 +1,14 @@
+#EdRepublic Simple math solution  
+
+Input min, max, factor. 
+Given a range of integers from min to max (inclusive), determine how many numbers within that range are 
+evenly divisible by factor.
+
+Sample Input 1:
+
+0
+14
+5
+Output:
+
+3
