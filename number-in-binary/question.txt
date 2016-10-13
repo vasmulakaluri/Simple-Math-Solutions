@@ -1,0 +1,2 @@
+Given an int, determine the minimum number of bits that must be used to represent this number in binary
+
