@@ -1,0 +1,26 @@
+Given English and Math test scores of students as integer arrays, find the number of students who have composite score below average.
+
+
+
+Input Format
+
+The first line specify the number of following input lines. Each input after the first line is list of comma separated scores of English and Math respectively
+
+
+
+
+Sample Input 1:
+
+2
+200,250,700,700
+400,400,400,400
+Output:
+
+2
+
+
+
+Explanation
+
+Given 200,250,700,700 and 400,400,400,400, your solution should return 2. The composite scores of the 4 children are 600, 650, 1100, and 1100 and the average composite score is 862.5, so 2 of the children are below average.
+
